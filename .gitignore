@@ -1,0 +1,9 @@
+node_modules/
+.pnpm-store/
+dist/
+.env
+.env.*
+!.env.example
+*.pdf
+/屏幕截图*.png
+/public/portrait.png
